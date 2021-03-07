@@ -1,1 +1,1 @@
-YES > GitKraken
+YES  GitKraken
